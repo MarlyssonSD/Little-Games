@@ -42,5 +42,3 @@ Graças a ele, exploramos o universo do Python, desde bibliotecas nativas até e
 🚀 Obrigado por nos guiar nessa jornada!  
 
 ---
-
-O que achou? Ficou mais dinâmico e divertido! 🎮🔥
