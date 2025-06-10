@@ -40,5 +40,3 @@ Com uma interface leve e clássica, ele traz quatro jogos nostálgicos para gara
 Graças a ele, exploramos o universo do Python, desde bibliotecas nativas até externas, expandindo nossa visão sobre a linguagem.  
 
 🚀 Obrigado por nos guiar nessa jornada!  
-
----
